@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.asm": "cpuasm",
+        "optional": "cpp",
+        "memory": "cpp",
+        "random": "cpp"
+    }
+}
