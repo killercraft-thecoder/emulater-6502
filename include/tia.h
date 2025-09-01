@@ -168,8 +168,8 @@ private:
     Object player0_, player1_;
     Object missile0_, missile1_;
     Object ball_;
-    
-    void TIA::applyHMOVE(Object &obj);
+
+    void applyHMOVE(Object &obj);
 
     // NUSIZ registers (affect size/duplication for players/missiles)
     uint8_t nusiz0_ = 0;
